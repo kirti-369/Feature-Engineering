@@ -1,1 +1,2 @@
 # Feature-Engineering
+Feature engineering transforms raw data into meaningful features to improve model performance. It includes creating new features, scaling and encoding data, extracting key information, and handling missing values. Effective feature engineering also involves selecting relevant features using statistical tests or model-based methods. This process enhances the accuracy and effectiveness of machine learning models.
